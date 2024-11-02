@@ -15,4 +15,4 @@ Simply include the HTML, CSS, and JavaScript files in your project, and customiz
 # Video
 Here is a demo video of the working:<br>
 
-<video src="/Assets/MCU_Villains.mp4" controls></video>
+<video controls src="https://github.com/rajdeepchakraborty-rc/Timeline_animate/raw/refs/heads/main/Assets/MCU_Villains.mp4" title="Assets/MCU_Villains.mp4"></video>
