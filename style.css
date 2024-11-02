@@ -19,7 +19,7 @@ body{
 
   .Heading{
     position: relative;
-    margin: 69px 0;
+    margin: 90px 0;
     background-color: #700f0f;
     z-index: 1;
   }
@@ -179,6 +179,24 @@ body{
     transform: translateX(0);
   }
   
+  .ag-timeline-card_paragraph {
+    opacity: 0;
+		color: white;
+		padding: 0 10px;
+		text-align: center;
+    font-family: 'ESL Legend', sans-serif;
+    font-size: 20px;
+		font-size: 18px;
+    transform: translateY(20px);
+    transition: all 0.6s ease;
+	}
+
+	.js-ag-active .ag-timeline-card_paragraph {
+    opacity: 1;
+    transform: translateY(0);
+	}
+
+
   .ag-timeline-card_arrow{
     height: 45px;
     width: 45px;
