@@ -1,3 +1,5 @@
+![Project Preview](/Assets/Video_thumbnail.png)  
+
 # Timeline_animate
 A sleek and interactive timeline animation built with HTML, CSS, and JavaScript. This project visually represents events or milestones along a timeline, with smooth animations to enhance user engagement and readability. Ideal for showcasing historical events, project phases, personal achievements, or any chronological data.
 
@@ -9,3 +11,8 @@ A sleek and interactive timeline animation built with HTML, CSS, and JavaScript.
 
 # Usage
 Simply include the HTML, CSS, and JavaScript files in your project, and customize the timeline content to suit your needs.
+
+# Video
+Here is a demo video of the working:<br>
+
+<video src="/Assets/MCU_Villains.mp4" controls></video>
