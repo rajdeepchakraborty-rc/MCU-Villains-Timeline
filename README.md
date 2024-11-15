@@ -1,6 +1,21 @@
 ![Project Preview](/Assets/Video_thumbnail.png)  
 
+<div align="center">
+
 # MCU Villains Timeline
+
+<!-- Added Project Stats -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<a href="https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline/stargazers"><img src="https://img.shields.io/github/stars/rajdeepchakraborty-rc/MCU-Villains-Timeline" alt="Stars Badge"/></a>
+<a href="https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline/network/members"><img src="https://img.shields.io/github/forks/rajdeepchakraborty-rc/MCU-Villains-Timeline" alt="Forks Badge"/></a>
+<a href="https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline/pulls"><img src="https://img.shields.io/github/issues-pr/rajdeepchakraborty-rc/MCU-Villains-Timeline" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline/issues"><img src="https://img.shields.io/github/issues/rajdeepchakraborty-rc/MCU-Villains-Timeline" alt="Issues Badge"/></a>
+<a href="https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/rajdeepchakraborty-rc/MCU-Villains-Timeline?color=2b9348"></a>
+<a href="https://github.com/rajdeepchakraborty-rc/MCU-Villains-Timeline/blob/master/LICENSE"><img src="https://img.shields.io/github/license/rajdeepchakraborty-rc/MCU-Villains-Timeline?color=2b9348" alt="License Badge"/></a>
+[![](https://visitcount.itsvg.in/api?id=mcu-villains-timeline&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
+
 A sleek and interactive timeline animation built with HTML, CSS, and JavaScript. This project visually represents events or milestones along a timeline, with smooth animations to enhance user engagement and readability. Ideal for showcasing historical events, project phases, personal achievements, or any chronological data.
 
 # Features
