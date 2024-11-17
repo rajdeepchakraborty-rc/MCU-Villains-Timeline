@@ -40,3 +40,10 @@ Simply include the HTML, CSS, and JavaScript files in your project, and customiz
 Here is a demo video of the working:<br>
 
 https://github.com/user-attachments/assets/59f35ba1-f482-4e36-8f07-4e7cfe80bd8c
+
+## Team
+
+| ![Rajdeep Chakraborty](https://avatars.githubusercontent.com/u/68934988?v=4&s=80) |
+|:--:|
+| **Rajdeep Chakraborty** <br> <sub>Project Owner</sub> | 
+| [![LinkedIn](https://img.icons8.com/fluency/32/000000/linkedin.png)](https://www.linkedin.com/in/rajdeepchakraborty69/) |
