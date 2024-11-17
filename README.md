@@ -1,3 +1,6 @@
+<!-- This is the anchor for the "Back to Top" button -->
+<div id="top"></div> 
+
 ![Project Preview](/Assets/Video_thumbnail.png)  
 
 <div align="center">
@@ -50,3 +53,10 @@ https://github.com/user-attachments/assets/59f35ba1-f482-4e36-8f07-4e7cfe80bd8c
 
 ## ⭐️ Support the Project
 If you find this project interesting or helpful, please consider giving it a ⭐️ on GitHub! Hope you have a great day ahead! 😄
+
+<!-- Added back to the top button -->
+<div align="center">
+    <a href="#top">
+        <img src="https://img.shields.io/badge/Back%20to%20Top-000000?style=for-the-badge&logo=github&logoColor=white" alt="Back to Top">
+    </a>
+</div>
